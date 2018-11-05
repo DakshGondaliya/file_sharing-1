@@ -5,12 +5,12 @@ Project on File Sharing:-
 It consist of
 - [x] 1. Authorized access to clients
 - [x] 2. Sorted files for files in directory<br/>:thumbsup: History (date, file shared , user detail)
-- [x] 4. Video Streaming
-- [x] 5. Acception / rejection of connection
-- [x] 6. GUI
-- [x] 7. Encryption of file data
-- [x] 8. Multiple sharing of file
-- [x] 9. Sum up all and build it as one
+- [x] 3. Video Streaming
+- [x] 4. Acception / rejection of connection
+- [x] 5. GUI
+- [x] 6. Encryption of file data
+- [x] 7. Multiple sharing of file
+- [x] 8. Sum up all and build it as one
 
 ## How to Run
 -   First run Server_Main.java file you will see this window
@@ -38,3 +38,4 @@ It consist of
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" padding="10">](https://github.com/lalkanhaiya) Kanhaiya Lal
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" padding="10"> Zahid Qureshi
+ 
